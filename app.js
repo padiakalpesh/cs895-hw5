@@ -189,7 +189,7 @@ Ext.onReady(function(){
         title: 'What will be left of Earth\'s non-renewable resources?',
         frame: true,
         bodyPadding: 5,
-        width: 98%,
+        width: 1024,
         height: 920,
 
         fieldDefaults: {
